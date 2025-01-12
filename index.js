@@ -26,7 +26,7 @@ DadosForm.addEventListener('submit', function (e) {
 
 
   var data = JSON.stringify({
-    content: "<@1279515494487031848>",
+    content: "",
     embeds: [
       {
         title: `${tipoBo}`,
