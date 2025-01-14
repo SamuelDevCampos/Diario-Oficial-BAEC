@@ -1,1 +1,441 @@
+{
+  "codigoPenal": [
+    {
+      "categoria": "CRIMES CONTRA A VIDA",
+      "artigos": [
+        {
+          "artigo": "1.1",
+          "descricao": "Homicídio - Quando uma pessoa toma qualquer ação premeditada para causar intencionalmente a morte de outra pessoa.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "1.2",
+          "descricao": "Tentativa de Homicídio - Quando uma pessoa toma alguma ação, ou deliberada e maliciosamente, com a intenção de causar a morte de outra pessoa e não tem sucesso.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        }
+      ]
+    },
+    {
+      "categoria": "CRIMES CONTRA DIREITOS FUNDAMENTAIS",
+      "artigos": [
+        {
+          "artigo": "2.1",
+          "descricao": "Lesão corporal - Causar danos significativos a outra pessoa através do toque intencional ofensivo ou prejudicial a essa pessoa sem o seu consentimento. Nota: A Lesão Corporal só se aplica se o indivíduo estiver incapacitado (derrubado).",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "2.2",
+          "descricao": "Sequestro - Apreender e levar ilegalmente uma pessoa pela força ou fraude, ou apreender e deter uma pessoa contra a sua vontade com a intenção de levar essa pessoa embora mais tarde. No caso em que vários reféns são tomados de uma só vez, apenas uma cobrança será apresentada.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "2.3",
+          "descricao": "Cárcere Privado - Deter, ou prender alguém indevidamente e contra sua vontade. No crime de cárcere privado, a vítima quase não tem como se locomover, sua liberdade fica restrita a um pequeno espaço físico, como um quarto ou um banheiro.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "2.5",
+          "descricao": "Prisao Militar - Quando um oficial da lei deixa de cumprir uma ordem direta ou age fora das condutas e éticas e morais de sua função.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "2.6",
+          "descricao": "Prevaricação - É um dos crimes praticados por funcionário público contra a administração em geral que consiste em retardar ou deixar de praticar, indevidamente, ato de ofício, ou praticá-lo contra disposição expressa de lei, para satisfazer interesse ou sentimento pessoal.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "2.8",
+          "descricao": "Tentativa de suborno - Tentar por meio de oferta tirar vantagem sobre defensoria pública.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        }
+      ]
+    },
+    {
+      "categoria": "CRIMES CONTRA O PATRIMÔNIO",
+      "artigos": [
+        {
+          "artigo": "3.1",
+          "descricao": "Furto - Subtrair, para si ou para outrem, coisa alheia móvel, mas por circunstâncias não previstas pelo agente, não se consuma o pretendido.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "3.2",
+          "descricao": "Receptação de Veículos - Posse de qualquer veiculo roubado consigo.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "3.3",
+          "descricao": "Tentativa de Furto - Tenta subtrair, para si ou para outrem, coisa alheia móvel, mas por circunstâncias não previstas pelo agente, não se consuma o pretendido.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "3.4",
+          "descricao": "Furto de Veículos - Subtrair, para si ou para outrem veiculos.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "3.5",
+          "descricao": "Invasão de Imóvel - Entrar em imóvel sem permissão do proprietário.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "3.6",
+          "descricao": "Roubo - Subtrair materiais e/ou equipamentos de pessoas alheias.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "3.7",
+          "descricao": "Roubo/Furto de Viatura - Subtrair viatura de serviço público para uso pessoal é crime de roubo/furto de viatura, mas se não obtida sob posse do acusado, não deve ser imputado ao réu. A não ser que se possua uma prova concreta coligando o réu a acusação.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "3.8",
+          "descricao": "Estabelecimento não licenciado - Possuir comércio e/ou estabelecimento prestador de serviços sem alvará de funcionamento ou com alvará vencido/inválido. (Primeiro dia, aviso | Segundo dia, multa aplicada ao responsável | Terceiro dia, interdição do local).",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "3.9",
+          "descricao": "Falsificação de documento de alvará - Utilizar documentação não proveniente do tribunal para apresentação à fiscalização com o intuito de ludibriá-la.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        }
+      ]
+    },
+    {
+      "categoria": "DOS ROUBOS E DA EXTORSÃO",
+      "artigos": [
+        {
+          "artigo": "4.1",
+          "descricao": "Assalto - Subtrair coisa móvel alheia, para si ou para outrem, mediante grave ameaça ou violência a pessoa, ou depois de havê-la, por qualquer meio, reduzido à impossibilidade de resistência.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "4.2",
+          "descricao": "Furto a Caixa Eletrônico - Furtar um caixa eletrônico / Registradora.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "4.3",
+          "descricao": "Extorsão - Constranger alguém, mediante violência ou grave ameaça, e com o intuito de obter para si ou para outrem indevida vantagem econômica, a fazer, tolerar que se faça ou deixar de fazer alguma coisa.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        }
+      ]
+    },
+    {
+      "categoria": "CRIMES DE PORTE, POSSE E EQUIPAMENTOS ILEGAIS",
+      "artigos": [
+        {
+          "artigo": "5.3",
+          "descricao": "Tráfico de armas - 3 ou mais armamentos.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "5.4",
+          "descricao": "Porte de arma Pesada - Porte de Thompson, MTAR, AK-47, Parafall, M4A4, MP5, SIG-SAUER, UZI (cada).",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "5.5",
+          "descricao": "Porte de arma Leve - Porte de FIVE-SEVEN, .50, GLOCK (cada).",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "5.6",
+          "descricao": "Posse de Munição (-250) - Posse de municiamento inferior a 250 unidades. Munição de HK é legal ter até 50 unidades.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "5.7",
+          "descricao": "Posse de Arma Branca - Posse de qualquer ferramenta de que possa ser utilizada como arma corpo-a-corpo de maneira imprudente e lesiva.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "5.8",
+          "descricao": "Tráfico de munição (+250) - Se enquadra como tráfico de munições portar 250 ou mais munições independente do tipo. Munição de HK é legal ter até 50 unidades.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "5.10",
+          "descricao": "Posse de materiais ilegais - Estar com posse de mais de um material da mesma espécie em suspeita de cometimento de algum crime como Lockpick, camisa de força, algema, etc...",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        }
+      ]
+    },
+    {
+      "categoria": "NARCOTRÁFICO",
+      "artigos": [
+        {
+          "artigo": "6.3",
+          "descricao": "Posse de Drogas (1 a 6) - Abaixo de 6, apenas apreender.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "6.4",
+          "descricao": "Tráfico de drogas - Posse de 7 ou mais drogas, cumulativamente, considera-se tráfico.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        }
+      ]
+    },
+    {
+      "categoria": "CRIMES CONTRA A HONRA",
+      "artigos": [
+        {
+          "artigo": "8.1",
+          "descricao": "Falsidade Ideológica - Se passar por um advogado certificado ou funcionário do governo (incluindo policiais, membros do Departamento de Justiça, etc.).",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "8.3",
+          "descricao": "Formação de quadrilha - Consiste na associação de quatro ou mais pessoas que se dedicam a cometer um ou mais delitos.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "8.4",
+          "descricao": "Associação Criminosa - Consiste na associação de duas ou mais pessoas que se dedicam a cometer um ou mais delitos.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "8.5",
+          "descricao": "Desordem em tribunal - A prisão deve ser aplicada somente sob ordem direta do Juiz quando está em uma audiência no tribunal.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        }
+      ]
+    },
+    {
+      "categoria": "INFRAÇÕES PENAIS/ CRIMES MENORES",
+      "artigos": [
+        {
+          "artigo": "10.1",
+          "descricao": "Ameaça - Intencionalmente ou conscientemente colocando outra pessoa com medo de lesões corporais.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "10.3",
+          "descricao": "Desobediência - Nenhuma pessoa poderá deixar de cumprir qualquer ordem legal ou direção de qualquer policial. (Em caso de tentativa de fuga, não deve ser aplicado, causa duplicidade).",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "10.8",
+          "descricao": "Vandalismo - Destruir, inutilizar ou deteriorar coisa alheia.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "10.8.1",
+          "descricao": "Dano ao patrimônio público - Causar danos à propriedade do Governo.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "10.9",
+          "descricao": "Abuso de Autoridade - Quando o Agente usa das suas atribuições do cargo para constranger, ameaçar, agredir ou qualquer outro ato que atinja um cidadão. (DEVERÁ NESSE CASO SER ANALISADO PELA HIERARQUIA SUPERIOR DA POLÍCIA E/OU JUIZ).",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "10.10",
+          "descricao": "Uso de máscara - Usar máscara ou qualquer outra coisa que impeça o Agente de identificar um cidadão. (SÓ PODE SER APLICADO QUANDO NÃO ESTÁ SE COMETENDO ALGUM CRIME) Primeira vez advertência verbal, posteriormente aplicação.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "10.11",
+          "descricao": "Uso de equipamentos restritos - Uso de equipamentos balísticos: coldres, coletes/capacetes militares etc..",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "10.19",
+          "descricao": "Omissão de socorro - Deixar de prestar assistência, quando possível fazê-lo sem risco pessoal, à criança abandonada ou extraviada, ou à pessoa inválida ou ferida, ao desamparo ou em grave e iminente perigo; ou não pedir, nesses casos, o socorro da autoridade pública.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "10.20",
+          "descricao": "Bloqueio de via pública - Usar qualquer veículo e/ou materiais para, deliberadamente, interromper, restringir ou perturbar a circulação na via sem autorização.",
 
+
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        }
+      ]
+    },
+    {
+      "categoria": "DAS VIOLAÇÕES NO TRÂNSITO (CTB)",
+      "artigos": [
+        {
+          "artigo": "11.1",
+          "descricao": "Tentativa de Fuga - Desobedecer a ordem de parada de um oficial ou se evadir de uma guarnição de qualquer forma.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "11.4",
+          "descricao": "Corridas ilegais - Participar e/ou organizar de corridas ilegais. Condução imprudente sobre vias públicas e zonas rurais.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "11.6",
+          "descricao": "Estacionar em Local Proibido - Deixar o veículo em local indevido.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "11.7",
+          "descricao": "Pousar em Local Proibido - Pousar veículos aéreos fora de locais adequados e seguros.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "11.8",
+          "descricao": "Manobra imprudente com aeronave - Utilizar Aeronave de forma imprudente.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "11.9",
+          "descricao": "Veículo Abandonado - Abandonar veículo em local indevido.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "11.11",
+          "descricao": "Dano ao Patrimônio - Utilizar um veículo para causar dano ao patrimônio alheio.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "11.12",
+          "descricao": "Veículo Danificado - Trafegar utilizando veículo danificado.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "11.13",
+          "descricao": "Bloquear ou Danificar Viatura - Impedir ou bloquear a passagem de uma Viatura (Colidindo ou Bloqueando).",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "11.15",
+          "descricao": "Conduzir sem habilitação - Ao conduzir sem habilitação, veículo será apreendido.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "11.16",
+          "descricao": "Homicídio Culposo no Trânsito - O crime de homicídio no trânsito ocorre sempre que uma pessoa mata (ou desmaia) outra pessoa em um acidente de trânsito, sem intenção de matar.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        }
+      ]
+    },
+    {
+      "categoria": "AGRAVANTES",
+      "artigos": [
+        {
+          "artigo": "14.1",
+          "descricao": "Desacato a autoridade - Desacato, desobediência ou desrespeito perante um funcionário público na forma de comportamento que se opõe ou desafia a autoridade.",
+          "pena": "",
+          "multa": "",
+          "fianca": ""
+        },
+        {
+          "artigo": "14.2",
+          "descricao": "Resistência a Prisão - O ato de usar a força para impedir a prisão (com ou sem mandado), algemar e/ou levar uma pessoa para a custódia policial.",
+          "pena": "",
+          "multa": "+ 50 MIL DE MULTA",
+          "fianca": ""
+        }
+      ]
+    }
+  ]
+}
