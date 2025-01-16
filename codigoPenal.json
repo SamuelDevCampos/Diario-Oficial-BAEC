@@ -354,79 +354,86 @@
         {
           "artigo": "11.1",
           "descricao": "Tentativa de Fuga - Desobedecer a ordem de parada de um oficial ou se evadir de uma guarnição de qualquer forma.",
-          "pena": "",
-          "multa": "",
-          "fianca": ""
+          "pena": "10",
+          "multa": "1400",
+          "fianca": "10000"
         },
         {
           "artigo": "11.4",
           "descricao": "Corridas ilegais - Participar e/ou organizar de corridas ilegais. Condução imprudente sobre vias públicas e zonas rurais.",
-          "pena": "",
-          "multa": "",
-          "fianca": ""
+          "pena": "20",
+          "multa": "2100",
+          "fianca": "INAFIANÇÁVEL"
         },
         {
           "artigo": "11.6",
           "descricao": "Estacionar em Local Proibido - Deixar o veículo em local indevido.",
-          "pena": "",
-          "multa": "",
-          "fianca": ""
+          "pena": "0",
+          "multa": "1400",
+          "fianca": "0"
         },
         {
           "artigo": "11.7",
           "descricao": "Pousar em Local Proibido - Pousar veículos aéreos fora de locais adequados e seguros.",
-          "pena": "",
-          "multa": "",
-          "fianca": ""
+          "pena": "0",
+          "multa": "7000",
+          "fianca": "0"
         },
         {
           "artigo": "11.8",
           "descricao": "Manobra imprudente com aeronave - Utilizar Aeronave de forma imprudente.",
-          "pena": "",
-          "multa": "",
-          "fianca": ""
+          "pena": "0",
+          "multa": "35000",
+          "fianca": "0"
         },
         {
           "artigo": "11.9",
           "descricao": "Veículo Abandonado - Abandonar veículo em local indevido.",
-          "pena": "",
-          "multa": "",
-          "fianca": ""
+          "pena": "0",
+          "multa": "1050",
+          "fianca": "0"
         },
         {
           "artigo": "11.11",
           "descricao": "Dano ao Patrimônio - Utilizar um veículo para causar dano ao patrimônio alheio.",
-          "pena": "",
-          "multa": "",
-          "fianca": ""
+          "pena": "0",
+          "multa": "1400",
+          "fianca": "0"
         },
         {
           "artigo": "11.12",
           "descricao": "Veículo Danificado - Trafegar utilizando veículo danificado.",
-          "pena": "",
-          "multa": "",
-          "fianca": ""
+          "pena": "0",
+          "multa": "1400",
+          "fianca": "0"
         },
         {
           "artigo": "11.13",
           "descricao": "Bloquear ou Danificar Viatura - Impedir ou bloquear a passagem de uma Viatura (Colidindo ou Bloqueando).",
-          "pena": "",
-          "multa": "",
-          "fianca": ""
+          "pena": "0",
+          "multa": "2100",
+          "fianca": "0"
         },
         {
           "artigo": "11.15",
           "descricao": "Conduzir sem habilitação - Ao conduzir sem habilitação, veículo será apreendido.",
-          "pena": "",
-          "multa": "",
-          "fianca": ""
+          "pena": "0",
+          "multa": "1400",
+          "fianca": "0"
         },
         {
           "artigo": "11.16",
           "descricao": "Homicídio Culposo no Trânsito - O crime de homicídio no trânsito ocorre sempre que uma pessoa mata (ou desmaia) outra pessoa em um acidente de trânsito, sem intenção de matar.",
-          "pena": "",
-          "multa": "",
-          "fianca": ""
+          "pena": "5",
+          "multa": "3500",
+          "fianca": "20000"
+        },
+         {
+          "artigo": "11.17",
+          "descricao": "Tentativa de homicídio no trânsito - O crime de homicídio no transito ocorre sempre que uma pessoa mata(ou desmaia) outra pessoa em um acidente de trânsito, sem intenção de matar.",
+          "pena": "5",
+          "multa": "3500",
+          "fianca": "12000"
         }
       ]
     },
@@ -436,16 +443,16 @@
         {
           "artigo": "14.1",
           "descricao": "Desacato a autoridade - Desacato, desobediência ou desrespeito perante um funcionário público na forma de comportamento que se opõe ou desafia a autoridade.",
-          "pena": "",
-          "multa": "",
-          "fianca": ""
+          "pena": "5",
+          "multa": "1400",
+          "fianca": "INAFIANÇÁVEL"
         },
         {
           "artigo": "14.2",
           "descricao": "Resistência a Prisão - O ato de usar a força para impedir a prisão (com ou sem mandado), algemar e/ou levar uma pessoa para a custódia policial.",
-          "pena": "",
-          "multa": "+ 50 MIL DE MULTA",
-          "fianca": ""
+          "pena": "5",
+          "multa": "0",
+          "fianca": "INAFIANÇÁVEL"
         }
       ]
     }
