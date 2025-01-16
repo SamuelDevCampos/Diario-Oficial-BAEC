@@ -260,7 +260,7 @@
         {
           "artigo": "8.4",
           "descricao": "Associação Criminosa - Consiste na associação de duas ou mais pessoas que se dedicam a cometer um ou mais delitos.",
-          "pena": ""10,
+          "pena": "10",
           "multa": "1400",
           "fianca": "3000"
         },
@@ -352,7 +352,7 @@
       "categoria": "DAS VIOLAÇÕES NO TRÂNSITO (CTB)",
       "artigos": [
         {
-          "artigo": "11.1",
+          "artigo": "11.1",s
           "descricao": "Tentativa de Fuga - Desobedecer a ordem de parada de um oficial ou se evadir de uma guarnição de qualquer forma.",
           "pena": "",
           "multa": "",
