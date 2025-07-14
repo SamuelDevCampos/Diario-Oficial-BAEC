@@ -83,31 +83,30 @@
       }
     });
 
-    const googleGetScriptURL = googleScriptURL;
 
-    async function carregarDados() {
-      try {
-        const response = await fetch(googleGetScriptURL);
-        const dados = await response.json();
+    function carregarDadosJSONP(data) {
+        console.log(data);
+    const tbody = document.querySelector('#armaTable tbody');
+    tbody.innerHTML = '';
 
-        const tbody = document.querySelector('#armaTable tbody');
-        tbody.innerHTML = '';
+    data.forEach(registro => {
+      const row = document.createElement('tr');
+      row.innerHTML = `
+        <td>${registro.nome}</td>
+        <td>${registro.quantidade}</td>
+        <td>${registro.data}</td>
+      `;
+      tbody.appendChild(row);
+    });
+  }
 
-        dados.forEach(registro => {
-          const row = document.createElement('tr');
-          row.innerHTML = `
-            <td>${registro.nome}</td>
-            <td>${registro.quantidade}</td>
-            <td>${registro.data}</td>
-          `;
-          tbody.appendChild(row);
-        });
-      } catch (error) {
-        console.error('Erro ao carregar os dados:', error);
-      }
-    }
+  function carregarDados() {
+    const script = document.createElement('script');
+    script.src = 'https://script.google.com/macros/s/AKfycbx3dG59cl2vUP9Duo_aNxHhK2uo_621MWnqzrDKdmHBkfuMQwkCt_3JOqsgUGAlmN57/exec?callback=carregarDadosJSONP';
+    document.body.appendChild(script);
+  }
 
-    carregarDados();
+  carregarDados();
   </script>
 </body>
 </html>
